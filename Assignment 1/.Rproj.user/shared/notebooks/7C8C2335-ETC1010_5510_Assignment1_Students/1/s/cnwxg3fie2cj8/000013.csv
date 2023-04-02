@@ -1,0 +1,3 @@
+"0",""
+"0","tab_music_range %>% ggplot(aes(x=type,y=lfreq,color=type))+geom_boxplot() + xlab('Genre') + ylab('Lfreq') + labs(color='Genre') + ggtitle(""Distribution of Lfreq for each Genre"") + theme_classic() + theme(plot.title = element_text(hjust = 0.5,size=15,face='bold')) "
+"0",""

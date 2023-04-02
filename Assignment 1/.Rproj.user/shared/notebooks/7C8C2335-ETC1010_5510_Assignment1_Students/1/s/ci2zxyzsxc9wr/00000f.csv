@@ -1,0 +1,6 @@
+"0","Avg_music <- data_tab %>%"
+"0","  dplyr::filter(type==""Rock"") %>%  #1pt"
+"0","  group_by(artist) %>%        #1pt"
+"0","  summarise(Avg = mean(lfreq))  #0.5pt"
+"0",""
+"0","Avg_music #0.5pt"

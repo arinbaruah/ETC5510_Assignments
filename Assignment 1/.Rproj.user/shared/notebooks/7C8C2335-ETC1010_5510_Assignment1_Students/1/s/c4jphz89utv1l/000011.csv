@@ -1,0 +1,7 @@
+"0","dim(data_tab)"
+"1","[1]"
+"1"," 35"
+"1","  8"
+"1","
+"
+"0","write.csv(data_tab,'data/data_tab.csv')"

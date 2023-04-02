@@ -1,0 +1,2 @@
+"0",""
+"0","tab_music_range %>% ggplot(aes(x=type,y=range,fill=type)) + geom_boxplot() + xlab('Genre') + ylab('Range') + labs(fill='Genre') + ggtitle(""Distribution of Range for each Genre"") +theme_classic() + theme(plot.title = element_text(hjust = 0.5,size=15,face='bold'))"

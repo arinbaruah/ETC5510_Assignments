@@ -1,0 +1,7 @@
+"0",""
+"0","tab_music<- music  %>%"
+"0","  rename(song = ...1) "
+"0",""
+"0","tab_music %>% #1pt"
+"0","  dplyr::filter(artist == ""Vivaldi"") %>% #1pt"
+"0","  head(4)                                # 1pt"

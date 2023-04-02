@@ -1,0 +1,6 @@
+"0",""
+"0","tab_music_range <- tab_music %>% "
+"0","                   group_by(type) %>% "
+"0","                   mutate(range = (lfreq-min(lfreq))/max(lfreq))"
+"0",""
+"0","head(tab_music_range,4)"

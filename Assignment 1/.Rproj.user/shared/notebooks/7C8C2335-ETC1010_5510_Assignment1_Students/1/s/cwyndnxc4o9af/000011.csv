@@ -1,0 +1,8 @@
+"0",""
+"0","freqs_avg<-or_tab_music %>% group_by(type) %>% summarise(mean=mean(range)) %>% arrange(-mean)"
+"0","freqs_var<-or_tab_music %>% group_by(type) %>% summarise(sd=sd(range)) %>% arrange(sd)"
+"0",""
+"0","write.csv(freqs_avg,'data/freqs_avg.csv')"
+"0","write.csv(freqs_var,'data/freqs_var.csv')"
+"0",""
+"0",""

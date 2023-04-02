@@ -1,0 +1,4 @@
+"0",""
+"0","unique_artists = data_tab %>% group_by(type)  %>%"
+"0","                    summarise(total_artists = sum(n_distinct(artist)))"
+"0","unique_artists"

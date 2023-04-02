@@ -1,0 +1,2 @@
+"0","tab_music_range %>% ggplot(aes(x=lmax,y=lfreq,color=type))+geom_point(size=2.5) + ggtitle(""Original frequency (lfreq) Vs. variable frequency (lmax)"") + labs(color='Genre') + theme(plot.title = element_text(hjust = 0.5,size=15,face='bold')) "
+"0",""

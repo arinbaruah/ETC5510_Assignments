@@ -1,0 +1,5 @@
+"0",""
+"0","data_tab<- music %>% "
+"0","  dplyr::filter(type %in% c('Rock','New wave'))"
+"0",""
+"0","head(data_tab,4)"

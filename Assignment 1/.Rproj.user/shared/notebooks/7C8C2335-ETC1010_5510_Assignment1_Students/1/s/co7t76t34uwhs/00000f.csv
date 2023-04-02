@@ -1,0 +1,7 @@
+"0",""
+"0","original_lfreq_range <- tab_music_range %>% "
+"0","  dplyr:: group_by(type) %>% "
+"0","  mutate(lfreq_range = max(lfreq)-min(lfreq)) %>% "
+"0","  arrange(-lfreq_range)"
+"0",""
+"0","write.csv(original_lfreq_range,'data/original_lfreq_range.csv')"
